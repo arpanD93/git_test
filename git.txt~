@@ -1,4 +1,4 @@
-jjjmkdir <full_directory_path>
+mkdir <full_directory_path>
 cp mygame.rb <full_directory_path>
 cd <full_directory_path>
 git init
